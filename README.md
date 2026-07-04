@@ -25,9 +25,7 @@ I'm a passionate developer who loves building things, from classic terminal game
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Overlord1225&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Overlord1225&layout=compact)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Overlord1225)](https://github.com/stats-organization/github-stats-extended)
 
 ## 📫 How to Reach Me
 
