@@ -23,10 +23,6 @@ I'm a passionate developer who loves building things, from classic terminal game
 [//]: # (Link to your best work. This is a great way to showcase what you've built.)
 *   **[Python Mini-Projects Playground](link-to-your-mini-projects-repo):** A collection of small Python projects, from CLI games to Tkinter GUIs.
 
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Overlord1225)](https://github.com/stats-organization/github-stats-extended)
-
 ## 📫 How to Reach Me
 
 *    [Gmail](christianpila25@gmail.com)
