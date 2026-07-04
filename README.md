@@ -26,7 +26,7 @@ I'm a passionate developer who loves building things, from classic terminal game
 
 ## 📫 How to Reach Me
 
-*    [Gmail](christianpila25@gmail.com)
+*   [Email Me](mailto:christianpila25@gmail.com)
 
 ---
 ⭐️ *Feel free to check out my repositories and connect!*
