@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Overlord1225
 
-<!--
-**Overlord1225/Overlord1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves building things, from classic terminal games to interactive desktop applications.
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Languages:** 
+    *   **Proficient:** Python, Java
+    *   **Familiar:** HTML, CSS, JavaScript, C++
+*   **Backend & Databases:** 
+    *   Supabase (PostgreSQL, Auth, Realtime)
+    *   MySQL (via XAMPP)
+*   **Frameworks & Libraries:** Tkinter
+*   **Tools:** Git, GitHub
+
+## 🚀 What I'm Currently Working On
+
+*   Building a collection of Python mini-projects to sharpen my skills.
+*   Learning more about programming.
+
+## 📂 My Projects
+
+[//]: # (Link to your best work. This is a great way to showcase what you've built.)
+*   **[Python Mini-Projects Playground](link-to-your-mini-projects-repo):** A collection of small Python projects, from CLI games to Tkinter GUIs.
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Overlord1225&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Overlord1225&layout=compact)
+
+## 📫 How to Reach Me
+
+*    [Gmail](christianpila25@gmail.com)
+
+---
+⭐️ *Feel free to check out my repositories and connect!*
